@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @irfanalditya
-- 👀 I’m interested in reverse engineering and malware analysis
+- 👀 A software reverse engineering hobbyist.
 
 <!---
 irfanalditya/irfanalditya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
